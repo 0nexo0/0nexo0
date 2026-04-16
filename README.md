@@ -5,7 +5,7 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=0nexo0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
     <a href="https://twitter.com/@gimhan0069" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/@gimhan0069?logo=twitter&style=flat" alt="Twitter Follow" />
+      <img src="https://img.shields.io/twitter/follow/gimhan0069?logo=twitter&style=flat" alt="Twitter Follow" />
     </a>
   </p>
   
@@ -23,9 +23,9 @@
 ## 👨‍💻 About Me
 
 * 🔭 I’m currently working as a **Freelance Developer**.
-* 🌱 I’m currently learning **[Insert current learning goal, e.g., Next.js or Cloud Architecture]**.
-* 💬 Ask me about **[Insert your strongest skills, e.g., React, Spring Boot, or UI/UX]**.
-* 📫 How to reach me: **[Insert your email address]**
+* 🌱 I’m currently learning **[JAVA]**.
+* 💬 Ask me about **[React, TypeScript, NodeJS, Lua, Python]**.
+* 📫 How to reach me: **[tharu.gimhan00@gmail.com]**
 
 ---
 
